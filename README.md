@@ -27,7 +27,7 @@ The individual files were the first version of the project while the file called
 - Capture information about ew projects. If a project name is not provided when the iformation is captured, name the project using the surname of the customer and building type.
 - Update information about existing projects. Information can change throughout a project such as a change in deadline, amount paid etc.
 - Finalise existing projects resulting in the following:  
-  - An invoice should be generated for the client containing the otal that must still be paid.
+  - An invoice should be generated for the client containing the total that must still be paid.
   - The project should be marked as 'finalised' along with tracking it's completion date.
 - Find all projects that still need to be completed
 - Find all projects that are past the due date
