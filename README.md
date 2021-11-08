@@ -32,6 +32,18 @@ The individual files were the first version of the project while the file called
 - Find all projects that still need to be completed
 - Find all projects that are past the due date
 
+## Versions of the program:
 
+### First commit
+
+The first commit of the program seen in the repository was a rough draft of the program to build the ideas and basic structure of the program. The data created within the program is not expected to be saved and used again later.
+
+### Version 1
+
+The First actual version of the program seen in the folder "PoisedProjectManager" is designed to save the data using txt files created and saved within the same folder as the program.
+
+### Final version - V2
+
+The final version of the program in the folder "PoisedProjectManager_V2" is designed to save data using SQL. There is a seperate readMe file within the flder
 
 
