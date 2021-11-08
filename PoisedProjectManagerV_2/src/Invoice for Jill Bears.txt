@@ -1,0 +1,16 @@
+		INVOICE:
+
+Project cost: 	R3200421
+Paid: 	R3200421
+
+Amount Owed: 	R0
+
+Customer Details:
+
+
+Name: Jill Bears
+Role in the project: customer
+Phone number: 0754986215
+Email address: jill@gmail.com
+Physical Address: 54 Street10, Suburb3, City
+

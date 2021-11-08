@@ -1,0 +1,16 @@
+		INVOICE:
+
+Project cost: 	R100000
+Paid: 	R25000
+
+Amount Owed: 	R75000
+
+Customer Details:
+
+
+Name: Tim Happy
+Role in the project: customer
+Phone number: 0215487654
+Email address: tim@gmail.com
+Physical Address: 12 Street2, Suburb3, City
+
