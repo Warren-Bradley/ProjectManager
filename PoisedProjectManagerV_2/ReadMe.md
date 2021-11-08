@@ -1,4 +1,4 @@
-# Poise Project management
+# Poised Project management
 
 ## Description:
 Poise project management is designed to control and keep track of constuction projects within a conusction company. It keeps track of each project, tracking the details of the people of interest, the costs involved and the date the projects are due. Once th projects are complete, it generates an invice to provide to the customer.
